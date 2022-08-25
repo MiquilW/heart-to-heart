@@ -3,10 +3,10 @@
 
 CONTROLS:
 
- 'W' to start
+	'W' to start
  
- 'A' and 'D' to move left and right
+	'A' and 'D' to move left and right
  
- 'SPACEBAR' to jump
+	'SPACEBAR' to jump
 
 Every 10 points, you are able to collect a power-up. There are 3; see if you can get them all!
