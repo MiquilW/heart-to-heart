@@ -1,5 +1,7 @@
 # heart-to-heart
  Infinite jumper game with cool power-ups
+ 
+ Play it online here: [Heart-to-Heart Web Playable](https://miquilw.github.io/heart-to-heart/build/web/index.html)
 
 CONTROLS:
 
